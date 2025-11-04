@@ -6,6 +6,7 @@ module.exports = {
     credits: "Emon",
     aliases: ["startsub", "sub"],
     prefix: true,
+    description: "Build your own personal video-downloader bot — a private. easy-to-use tool tailored just for you.",
     permission: 0
   },
 
